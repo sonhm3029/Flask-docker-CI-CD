@@ -1,1 +1,4 @@
-This project is aim to do simple e2e project with docker
+## Project này để thử nghiệm
+
+1. CI/CD auto build với github actions
+2. CI/CD auto build với jenkins
