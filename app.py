@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Hello, Docker!'
+    return 'Hello, Docker with CI/CD!'
 
 
 @app.route("/widgets")
